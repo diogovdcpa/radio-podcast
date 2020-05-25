@@ -1,0 +1,33 @@
+.flex-row{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+#inputRange{
+  max-width: 85%;
+  background: red;
+}
+
+#divContent{
+  margin-top: 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+#inputFrequency{
+  width: 100px;
+  margin-top: 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+  text-align: center;
+  color: black;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
